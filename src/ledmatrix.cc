@@ -10,6 +10,7 @@
 #include <node.h>
 
 #include <stdlib.h>
+#include <unistd.h>
 
 #include <led-matrix.h>
 #include <ledmatrix.h>
